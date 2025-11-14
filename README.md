@@ -13,6 +13,11 @@ Clone the repository:
 git clone https://github.com/bengutow1/csc3102-fall2024-bookorders-project.git
 ```
 
+Step into the folder:
+```bash
+cd csc3102-fall2024-bookorders-project
+```
+
 Compile the program and run with the following commands:
 ```bash
 javac *.java
