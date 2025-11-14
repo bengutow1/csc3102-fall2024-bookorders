@@ -10,12 +10,12 @@ This is a book order management project I made with a group. The program reads a
 
 Clone the repository:
 ```bash
-git clone https://github.com/bengutow1/csc3102-fall2024-bookorders-project.git
+git clone https://github.com/bengutow1/csc3102-fall2024-bookorders.git
 ```
 
 Step into the folder:
 ```bash
-cd csc3102-fall2024-bookorders-project
+cd csc3102-fall2024-bookorders
 ```
 
 Compile the program and run with the following commands:
